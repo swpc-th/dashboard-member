@@ -22,6 +22,9 @@
   <!-- แทนที่ URL ด้านล่างด้วยลิงก์ Google Apps Script (/exec) ของแดชบอร์ดสถิติ -->
   <iframe
     title="แดชบอร์ดสถิติสมาชิก สภาวิชาชีพสังคมสงเคราะห์"
-    src="https://script.google.com/macros/s/AKfycbwtFwRP3kLUHksynFYBBffxNO8dTo4Kzi9nPYcoNTzildso6CWMSctJGEeJBf5F4Khv1g/exec"allow="fullscreen"></iframe>
+    <iframe
+  title="แดชบอร์ดสถิติสมาชิก สภาวิชาชีพสังคมสงเคราะห์"
+  src="https://script.google.com/macros/s/AKfycbwtFwRP3kLUHksynFYBBffxNO8dTo4Kzi9nPYcoNTzildso6CWMSctJGEeJBf5F4Khv1g/exec"
+  allow="fullscreen"></iframe>
 </body>
 </html>
